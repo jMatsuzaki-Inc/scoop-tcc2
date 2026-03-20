@@ -1,19 +1,19 @@
 {
-    "version": "0.0.16",
+    "version": "0.0.17",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jMatsuzaki-Inc/homebrew-tap/releases/download/v0.0.16/tcc2_windows_amd64.zip",
+            "url": "https://github.com/jMatsuzaki-Inc/homebrew-tap/releases/download/v0.0.17/tcc2_windows_amd64.zip",
             "bin": [
                 "tcc2.exe"
             ],
-            "hash": "edd893a8238199cea64fa1919c417d1d9ce00e1f60914ffab9507ba4db0a9283"
+            "hash": "18b53f8bc597960b1b4c2c0bae37ef84298fe4763993ac0853480c9f82dd4e12"
         },
         "arm64": {
-            "url": "https://github.com/jMatsuzaki-Inc/homebrew-tap/releases/download/v0.0.16/tcc2_windows_arm64.zip",
+            "url": "https://github.com/jMatsuzaki-Inc/homebrew-tap/releases/download/v0.0.17/tcc2_windows_arm64.zip",
             "bin": [
                 "tcc2.exe"
             ],
-            "hash": "e105f965105fe3372fe1fd8ffdc7a48b576e4c09e8a0db60a01a9763e1d49c2a"
+            "hash": "6be1ce8a793eeb1a40a6cbe1f32d170276d310f3006f4c0553d27ffc2cda2216"
         }
     },
     "homepage": "https://github.com/jMatsuzaki-Inc/scoop-tcc2",
